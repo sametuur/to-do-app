@@ -1,11 +1,3 @@
-.App {
-  text-align: center;
-}
-
-.content{
-  width: 700px;
-  height: 200px;
-  background-color: red;
-  margin-top:10%;
-}
-/* .form-select{max-width: 150px;} */
+.App {text-align: center;}
+.content{background-color: rgba(83, 13, 173, 0.281); border-radius:30px; }
+.div-dis{display:flex;justify-content: space-between;}
