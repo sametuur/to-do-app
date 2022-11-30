@@ -7,8 +7,9 @@
     right: 0;
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.5);
-    }
-    .popup-body {
+}
+
+.popup-body {
     position: absolute;
     left: 30%;
     right: 30%;
@@ -20,4 +21,4 @@
     border-color: black;
     background: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    }
+}
